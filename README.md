@@ -33,17 +33,6 @@ Mbuyu Watatu is a glamping and camping resort. This repository documents the ful
 - Google Analytics
 - Git & GitHub
 
-## Screenshots
-
-### Homepage
-![Homepage](screenshots/homepage.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-
-### Booking Section
-![Booking](screenshots/booking-page.png)
-
 ## Performance & SEO
 
 - Optimized images and assets
