@@ -58,6 +58,8 @@ I specialize in the hospitality and tourism digital space, combining hands-on we
 
 - Email - tyronejohn001@gmail.com
 - 🔗 [MWH Data Analysis Project](https://github.com/Ty1Ty/MWH)
+- (https://github.com/Ty1Ty/Moko_mat/tree/main)
+  
 
 
 - ## Resort Contact
